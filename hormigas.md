@@ -1,0 +1,1 @@
+Las **hormigas** son una familia de insectos altamente sociales (familia _Formicidae_) que viven en colonias organizadas bajo tierra o en estructuras de madera. Se caracterizan por tener antenas acodadas, una cintura muy estrecha y una estricta división del trabajo entre reinas, obreras y machos.

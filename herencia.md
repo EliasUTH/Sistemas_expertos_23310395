@@ -1,0 +1,1 @@
+La **herencia** (o herencia biológica) es el proceso mediante el cual los progenitores transmiten su información [[genética]] a su descendencia, determinando la transmisión y continuidad de los rasgos [[genotípicos]] y [[fenotípicos]] a través de las generaciones.

@@ -1,0 +1,1 @@
+El **parentesco evolutivo** es el grado de relación biológica y genética entre distintas especies, determinado por qué tan reciente es el antepasado común que comparten. Cuanto más cercano en el tiempo esté ese ancestro, mayor es su parentesco.

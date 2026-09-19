@@ -1,0 +1,1 @@
+Los **átomos** son las unidades fundamentales de la materia ordinaria que conservan las propiedades de un elemento químico. Están formados por un núcleo de [[protones]] y [[neutrones]] rodeado por [[electrones]], y se unen entre sí para formar moléculas.

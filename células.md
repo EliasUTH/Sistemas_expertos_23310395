@@ -1,0 +1,1 @@
+Las **células** son las unidades estructurales y funcionales básicas de todos los seres vivos, capaces de realizar de forma [[autónoma]] las funciones [[vitales]] de nutrición, relación y reproducción.

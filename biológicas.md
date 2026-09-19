@@ -1,0 +1,1 @@
+**Biológicas** (o biológicos) hace referencia a todo lo perteneciente o relativo a la biología, los seres vivos y los procesos o mecanismos que sostienen la vida.

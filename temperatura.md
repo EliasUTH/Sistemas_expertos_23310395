@@ -1,0 +1,1 @@
+La **temperatura** es la medida de la energía térmica (calor) que posee un cuerpo o ambiente. En los seres vivos, influye directamente en el ritmo de las reacciones [[metabólicas]] y en la supervivencia celular.

@@ -1,0 +1,1 @@
+Es otra de las especies más comunes en Europa y América, frecuentemente encontrada en pilas de abono y madera podrida.

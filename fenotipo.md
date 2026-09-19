@@ -1,0 +1,1 @@
+El **fenotipo** es el conjunto de características y rasgos observables, físicos, bioquímicos y conductuales de un organismo, resultantes de la expresión de su [[genotipo]] en interacción con el medio ambiente.

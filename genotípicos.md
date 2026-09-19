@@ -1,0 +1,1 @@
+**Genotípicos** (o genotípico) describe a los rasgos, factores o variaciones pertenecientes o relativos al [[genotipo]], es decir, aquellos determinados directamente por la composición y combinación de genes presente en el [[ADN]] de un organismo, con independencia de su manifestación observable.

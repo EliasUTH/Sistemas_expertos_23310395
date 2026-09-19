@@ -1,0 +1,1 @@
+Un **exoesqueleto** es una cubierta o estructura externa rígida que recubre, protege y sostiene el cuerpo de ciertos animales (como los [[artrópodos]]). Funciona como una coraza protectora y punto de soporte para los músculos, cumpliendo la función del esqueleto pero por fuera del cuerpo.

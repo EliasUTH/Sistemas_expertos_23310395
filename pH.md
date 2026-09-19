@@ -1,0 +1,1 @@
+El **pH** es la medida del grado de [[acidez ]]o [[alcalinidad]] de una [[sustancia]], determinada por su concentración de [[iones]] de [[hidrógeno]]. Es un [[parámetro]] [[crítico]] que los seres vivos deben mantener en [[equilibrio]] para permitir las reacciones [[biológicas]].

@@ -1,0 +1,1 @@
+En biología, un **suborden** es una categoría (o rango) de [[clasificación taxonómica]] que se utiliza para organizar a los seres vivos. Sirve para agrupar organismos que están muy emparentados dentro de un grupo mayor, pero que aún tienen diferencias importantes entre sí.

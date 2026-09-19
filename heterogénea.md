@@ -1,0 +1,1 @@
+**Heterogénea** (o heterogéneo) describe una [[sustancia]], [[mezcla]] o sistema cuya composición no es uniforme en toda su extensión, de modo que sus componentes o fases conservan características distintas y pueden distinguirse a simple vista o mediante métodos físicos.

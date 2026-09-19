@@ -1,0 +1,1 @@
+Las **macromoléculas** son moléculas de gran tamaño compuestas por miles de [[átomos]], formadas generalmente por la unión de unidades más pequeñas (monómeros). En los seres vivos incluyen las [[proteínas]], los [[ácidos nucleicos]], los [[carbohidratos]] y los [[lípidos]].

@@ -1,0 +1,1 @@
+El término **dorsoventral** hace referencia al eje o dirección que va desde el dorso (espalda o superficie superior) hasta el vientre (superficie inferior) de un organismo. Un cuerpo aplanado dorsoventralmente está comprimido de arriba hacia abajo.

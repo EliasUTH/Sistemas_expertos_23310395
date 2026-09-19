@@ -1,0 +1,1 @@
+**Orgánico** (o orgánica) describe a todo compuesto o [[sustancia]] cuya estructura principal se basa en [[átomos]] de carbono enlazados con hidrógeno y otros elementos, constituyendo la base [[química]] fundamental de las moléculas y estructuras que componen a los seres vivos.

@@ -1,0 +1,1 @@
+La **clasificación taxonómica** es el sistema que usan los científicos para nombrar, agrupar y ordenar a los seres vivos en diferentes categorías (como Reino, Familia o Especie) basándose en sus características y su [[parentesco evolutivo]]. Básicamente, es el método para organizar el árbol de la vida.

@@ -1,0 +1,1 @@
+El **ADN** (ácido desoxirribonucleico) es un ácido nucleico formado por una doble hélice de desoxirribonucleótidos que almacena y transmite la información [[genética]] hereditaria necesaria para el desarrollo, funcionamiento y reproducción de los organismos vivos.

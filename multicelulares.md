@@ -1,0 +1,1 @@
+Los organismos **multicelulares** (o pluricelulares) son aquellos seres vivos formados por dos o más [[células]] que trabajan de forma coordinada y especializada para llevar a cabo sus funciones [[vitales]], como los [[animales]], las [[plantas]] y los [[hongos]].

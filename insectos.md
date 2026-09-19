@@ -1,0 +1,1 @@
+Los **insectos** son una clase de [[artrópodos]] invertebrados caracterizados por tener el cuerpo dividido en tres partes (cabeza, tórax y abdomen), un par de antenas, tres pares de patas y, en su mayoría, alas. Incluyen animales como [[hormigas]], moscas, mariposas y [[escarabajos]].

@@ -1,0 +1,1 @@
+Los **artrópodos** son el grupo más numeroso de animales [[invertebrados]]. Se caracterizan por tener un [[exoesqueleto]] rígido, el cuerpo dividido en segmentos y patas o apéndices articulados. Incluyen [[insectos]], arácnidos, [[crustáceos]] y miriápodos.

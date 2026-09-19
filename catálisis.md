@@ -1,0 +1,1 @@
+La **catálisis** es el proceso químico o bioquímico mediante el cual se incrementa la velocidad de una reacción por la acción de una [[sustancia]] ([[catalizador]]) que reduce la energía de activación necesaria, sin consumirse ni alterarse de manera permanente durante el proceso.

@@ -1,0 +1,1 @@
+La **genética** es la rama de la biología que estudia la [[herencia]] y la variación biológica, analizando la estructura, función y transmisión de los genes a través de las generaciones.

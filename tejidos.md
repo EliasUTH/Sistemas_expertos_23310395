@@ -1,0 +1,1 @@
+Los **tejidos** son conjuntos o agrupaciones organizadas de células de estructura y función similares, junto con su matriz extracelular, que actúan de manera integrada y coordinada para llevar a cabo funciones fisiológicas específicas en los [[organismos]] multicelulares.

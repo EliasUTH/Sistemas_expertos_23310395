@@ -1,0 +1,1 @@
+Los **escarabajos** (o coleópteros) son el grupo de insectos más numeroso y diverso del planeta. Su característica principal es que tienen el primer par de alas transformado en una cubierta rígida y dura (llamada élitro), la cual protege su cuerpo y su segundo par de alas membranosas con las que vuelan.

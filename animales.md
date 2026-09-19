@@ -1,0 +1,1 @@
+Los **animales** son seres vivos [[multicelulares]] pertenecientes al [[reino]] Animalia, caracterizados por alimentarse de otros [[organismos]] ([[nutrición heterótrofa]]), tener capacidad de movimiento en algún momento de su vida y responder activamente a su entorno.

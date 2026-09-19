@@ -1,0 +1,1 @@
+La **química** es la ciencia que estudia la composición, estructura, propiedades y transformaciones de la materia, así como las reacciones entre sus [[átomos]] y moléculas.

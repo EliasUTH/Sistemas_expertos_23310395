@@ -1,0 +1,1 @@
+El **genotipo** es el conjunto específico de genes e información [[genética]] contenida en el [[ADN]] de un organismo, el cual constituye su constitución hereditaria única y determina las características que pueden manifestarse en su [[fenotipo]].

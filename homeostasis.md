@@ -1,0 +1,1 @@
+La **homeostasis** es la capacidad de los seres vivos para mantener estables y en equilibrio sus condiciones internas (como la [[temperatura]], el [[pH]] y la [[hidratación]]) frente a los cambios del [[entorno]].

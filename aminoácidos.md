@@ -1,0 +1,1 @@
+Los **aminoácidos** son biomoléculas orgánicas compuestas por un grupo amino y un grupo carboxilo unidos a un átomo de carbono central, las cuales actúan como las unidades monoméricas fundamentales para la síntesis de [[proteínas]] y participan en diversas rutas metabólicas y procesos biológicos celulares.

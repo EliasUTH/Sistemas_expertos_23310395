@@ -1,0 +1,1 @@
+Los **[[isópodos]] terrestres** ([[Oniscidea]]), conocidos comúnmente como cochinillas de humedad o bichos bola, incluyen [[géneros]] como [[Armadillidium]] y [[Porcellio]]; estos se han adaptado a la vida fuera del agua, aunque todavía dependen de la humedad para sobrevivir.

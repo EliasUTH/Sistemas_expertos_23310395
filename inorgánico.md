@@ -1,0 +1,1 @@
+**Inorgánico** (o inorgánica) describe a todo compuesto o [[sustancia]] que carece de enlaces carbono-hidrógeno en su estructura principal, como las sales minerales, el agua y ciertos gases, los cuales intervienen en las funciones [[biológicas]] sin ser de origen puramente [[orgánico]].

@@ -1,0 +1,1 @@
+Los **protones** son partículas subatómicas con carga eléctrica positiva ubicadas en el núcleo del átomo. Su número (número atómico) define la identidad [[química]] de cada elemento y, junto con los [[neutrones]], constituye la mayor parte de la [[masa]] atómica.

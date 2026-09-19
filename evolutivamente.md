@@ -1,0 +1,1 @@
+**Evolutivamente** significa considerar o explicar algo desde la perspectiva de la **evolución biológica**. Se utiliza para referirse a cómo una característica, comportamiento o especie ha cambiado, se ha adaptado o se ha desarrollado a lo largo del tiempo a través de las generaciones.

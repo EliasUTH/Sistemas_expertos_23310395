@@ -1,0 +1,1 @@
+Los **electrones** son [[partículas ]]subatómicas con carga eléctrica negativa que orbitan el núcleo del átomo. Son los responsables de la formación de enlaces químicos y de la transferencia de energía en las reacciones [[biológicas]].

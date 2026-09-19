@@ -1,0 +1,1 @@
+La **naturaleza** es el conjunto de seres vivos, componentes [[inanimados]] y procesos físicos y químicos que conforman el mundo material y operan bajo leyes propias sin la intervención humana.

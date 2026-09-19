@@ -1,0 +1,1 @@
+**Homogénea** (o homogéneo) describe una [[sustancia]], [[mezcla]] o sistema cuya composición y propiedades son completamente uniformes en toda su extensión, de modo que sus componentes individuales no pueden distinguirse a simple vista.

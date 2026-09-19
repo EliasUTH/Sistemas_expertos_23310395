@@ -1,0 +1,1 @@
+Los **neutrones** son partículas subatómicas sin carga eléctrica (neutras) ubicadas en el núcleo del átomo. Poseen una masa similar a la de los [[protones]] y son fundamentales para la estabilidad atómica y la masa total de los elementos químicos.

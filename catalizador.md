@@ -1,0 +1,1 @@
+Un **catalizador** es una [[sustancia]] [[química]] o biológica que incrementa la velocidad de una reacción [[química]] al disminuir su energía de activación, sin consumirse ni sufrir transformaciones químicas permanentes en el proceso.

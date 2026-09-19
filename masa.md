@@ -1,0 +1,1 @@
+La **masa** es una magnitud física fundamental que mide la cantidad de [[materia]] que contiene un cuerpo o partícula, determinando su resistencia a cambiar de estado de movimiento y su atracción gravitatoria.

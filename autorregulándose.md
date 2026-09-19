@@ -1,0 +1,1 @@
+**Autorregulándose** significa ajustar, controlar y mantener por sí mismo los propios procesos o variables internas (como en la [[homeostasis]]) para conservar el equilibrio frente a los cambios del entorno.

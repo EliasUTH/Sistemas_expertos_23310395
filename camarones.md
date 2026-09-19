@@ -1,0 +1,1 @@
+Los **camarones** son [[crustáceos]] decápodos (marinos o de agua dulce) caracterizados por su cuerpo alargado y comprimido lateralmente, antenas muy largas, exoesqueleto delgado o semitransparente y un abdomen musculoso que les permite nadar ágilmente.

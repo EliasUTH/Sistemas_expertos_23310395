@@ -1,0 +1,1 @@
+Una **solución** (o disolución) es una mezcla [[homogénea]] monofásica constituida por la dispersión uniforme de una o más [[sustancia]]s (solutos) a nivel molecular o iónico en otra que las disuelve (solvente), la cual actúa como el medio primario para la ocurrencia de reacciones químicas, el transporte de nutrientes y el equilibrio osmótico en los sistemas biológicos.

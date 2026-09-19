@@ -1,0 +1,1 @@
+El **ARN** (ácido ribonucleico) es un ácido nucleico formado por una cadena de ribonucleótidos que participa en la transcripción, transporte y traducción de la información [[genética]] contenida en el [[ADN]] para la síntesis de [[proteínas]] y la regulación celular.

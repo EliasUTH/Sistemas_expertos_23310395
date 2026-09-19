@@ -1,0 +1,1 @@
+La **materia** es todo aquello que ocupa un lugar en el espacio y tiene [[masa]]. Está compuesta por [[átomos]] y partículas subatómicas, constituyendo la base física que forma todas las estructuras y [[sustancia]]s de los [[organismos]] vivos y de la [[naturaleza]].

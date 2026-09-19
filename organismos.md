@@ -1,0 +1,1 @@
+Los **organismos** son seres vivos individuales (como [[animales]], [[plantas]], [[hongos]] o [[bacterias]]) compuestos por una o más [[células]], capaces de realizar por sí mismos las funciones [[vitales]] de nutrición, relación y [[reproducción]].

@@ -1,0 +1,1 @@
+Los **cangrejos** son [[crustáceos]] (principalmente del orden de los decápodos) caracterizados por tener un caparazón duro, un cuerpo ancho y aplanado, y cinco pares de patas (10 en total). Su primer par de patas suele estar modificado en forma de pinzas fuertemente desarrolladas que utilizan para defenderse y capturar alimento.

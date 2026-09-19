@@ -1,0 +1,1 @@
+Los **carbohidratos** (o glúcidos) son biomoléculas orgánicas compuestas fundamentalmente por carbono, hidrógeno y oxígeno. Su función principal en los seres vivos es proporcionar energía química de disponibilidad inmediata a las células, además de actuar como componentes estructurales clave en paredes celulares y [[tejidos]].

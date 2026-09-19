@@ -1,0 +1,1 @@
+Los **crustáceos** son un grupo de [[artrópodos]] —en su mayoría [[acuáticos]]— caracterizados por tener un [[exoesqueleto]] duro, patas articuladas y dos pares de antenas. Incluyen animales como cangrejos, langostas, camarones y las cochinillas de humedad.

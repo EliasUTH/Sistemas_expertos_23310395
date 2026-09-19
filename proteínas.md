@@ -1,0 +1,1 @@
+Las **proteínas** son [[macromoléculas]] compuestas por cadenas de [[aminoácidos]] que desempeñan la mayoría de las funciones en las [[células]], tales como el soporte estructural, la [[catálisis]] de [[reacciones químicas]] ([[enzimas]]), el transporte de [[sustancia]]s y la defensa [[inmunológica]].

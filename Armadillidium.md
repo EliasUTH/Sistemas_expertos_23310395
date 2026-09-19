@@ -1,0 +1,1 @@
+**_Armadillidium_** es un género de [[crustáceos]] [[isópodos]] (cochinillas de humedad) conocidos comúnmente como bichos bola. Su característica principal es la capacidad de enrollarse completamente formando una esfera dura para defenderse de [[depredadores]] y evitar la pérdida de humedad.

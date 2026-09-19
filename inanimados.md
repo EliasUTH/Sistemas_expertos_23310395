@@ -1,0 +1,1 @@
+**Inanimados** (o inanimado) describe a los componentes, estructuras o [[materia]]s que carecen de vida, organización celular y procesos [[metabólico]]s, sirviendo en muchos casos como el medio físico o recurso [[inorgánico]] que sostiene a los seres vivos.

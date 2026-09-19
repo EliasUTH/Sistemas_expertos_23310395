@@ -1,0 +1,1 @@
+**Fenotípicos** (o fenotípico) describe a las características, rasgos o propiedades observables y medibles de un organismo —como su morfología, fisiología y comportamiento— producidas por la expresión de su información [[genética]] ([[genotipo]]) en interacción con el medio ambiente.

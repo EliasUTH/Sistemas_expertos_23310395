@@ -1,0 +1,1 @@
+**Metabólico** (o metabólica) describe todo aquello perteneciente o relativo al metabolismo, es decir, al conjunto de reacciones y transformaciones [[química]]s que ocurren en las [[células]] para sintetizar materia y obtener energía para la vida.

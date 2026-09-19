@@ -1,0 +1,1 @@
+Esta es probablemente la especie más famosa. Pertenece a la familia Armadillidiidae y es la clásica cochinilla que tiene la capacidad de **hacerse bolita** (conglobación) cuando se siente amenazada.

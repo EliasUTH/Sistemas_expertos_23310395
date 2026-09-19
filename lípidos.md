@@ -1,0 +1,1 @@
+Los **lípidos** son biomoléculas orgánicas compuestas principalmente por carbono e hidrógeno, caracterizadas por ser insolubles en agua (hidrofóbicas). Desempeñan funciones esenciales en el almacenamiento de energía a largo plazo, la estructura de las membranas celulares y la señalización biológica.

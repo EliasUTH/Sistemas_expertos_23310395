@@ -1,0 +1,1 @@
+Una **mezcla** es la combinación física de dos o más [[sustancia]]s en la que cada componente conserva sus propiedades [[química]]s individuales, pudiendo ser [[homogénea]] o [[heterogénea]].

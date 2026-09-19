@@ -1,0 +1,1 @@
+**Autónoma** (o autónomo) describe la capacidad de un organismo, célula o sistema para funcionar de forma independiente, [[autorregulándose]] sin depender de un control externo.

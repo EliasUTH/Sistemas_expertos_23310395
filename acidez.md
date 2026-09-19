@@ -1,0 +1,1 @@
+La **acidez** es la propiedad de una [[sustancia]] de liberar [[iones]] de [[hidrógeno]] en [[solución]], caracterizada por tener un [[pH]] inferior a 7. En los seres vivos, un nivel de acidez fuera de rango puede alterar el funcionamiento celular y [[denaturar]] las [[proteínas]].

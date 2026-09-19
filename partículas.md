@@ -1,0 +1,1 @@
+Las **partículas** son porciones diminutas y delimitadas de materia, como los componentes subatómicos ([[protones]], [[neutrones]], [[electrones]]) o moléculas, que constituyen la estructura de todos los cuerpos y [[sustancia]]s.

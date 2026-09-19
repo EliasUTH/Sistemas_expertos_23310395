@@ -1,0 +1,1 @@
+Los **invertebrados** son todos los animales que carecen de columna vertebral y de esqueleto interno articulado de hueso o cartílago. Representan alrededor del 95 % de todas las especies del planeta e incluyen a los [[artrópodos]], moluscos, gusanos, medusas y esponjas, entre otros.

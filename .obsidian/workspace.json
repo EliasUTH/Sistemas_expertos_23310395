@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "9a2408d5c7590655",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c8cccc16fd18a96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47a7234a6a569fb0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3f7b6cdb805cf94",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e4c7ccc4a3eb76c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89c5fb0e25b4ccae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1393b233ad470b7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "ad71b710fa875b80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cc5ca9c4e28573ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "213ec8545913b5ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4548772ff0152ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "110a5aa245b71a17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "36349bf59d07262f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5b7d74bc507cf14c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "7fea685acc4ea7e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "47a7234a6a569fb0",
+  "lastOpenFiles": [
+    "Isópodos terrestres.md",
+    "Porcellio.md",
+    "Armadillidium.md",
+    "depredadores.md",
+    "presas.md",
+    "cazan.md",
+    "organismos.md",
+    "reproducción.md",
+    "bacterias.md",
+    "animales.md",
+    "reino.md",
+    "nutrición heterótrofa.md",
+    "multicelulares.md",
+    "hongos.md",
+    "plantas.md",
+    "células.md",
+    "vitales.md",
+    "autónoma.md",
+    "autorregulándose.md",
+    "homeostasis.md",
+    "entorno.md",
+    "hidratación.md",
+    "pH.md",
+    "crítico.md",
+    "parámetro.md",
+    "equilibrio.md",
+    "Pasted image 20260914191416.png"
+  ]
+}

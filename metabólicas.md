@@ -1,0 +1,1 @@
+Las reacciones **metabólicas** son los procesos y transformaciones químicas que ocurren dentro de las [[células]] de un organismo para convertir los nutrientes en energía y materia necesarias para mantenerse con vida.

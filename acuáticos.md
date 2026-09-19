@@ -1,0 +1,1 @@
+Los organismos **acuáticos** son aquellos seres vivos que habitan, se desarrollan o pasan la mayor parte de su vida en el agua, ya sea salada (océanos, mares) o dulce (ríos, lagos).

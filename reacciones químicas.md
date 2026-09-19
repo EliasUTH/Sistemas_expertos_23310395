@@ -1,0 +1,1 @@
+Las **reacciones químicas** son procesos termodinámicos en los cuales una o más [[sustancia]]s (reactivos) alteran su estructura molecular y sus enlaces químicos para transformarse en [[sustancia]]s distintas con propiedades diferentes (productos), acompañados de una reorganización atómica e intercambios de energía.

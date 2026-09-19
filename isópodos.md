@@ -1,0 +1,1 @@
+Los **isópodos** son un orden de [[crustáceos]] caracterizados por tener el cuerpo aplanado [[dorsoventral]]mente y siete pares de patas de forma similar. Habitan en ambientes marinos, de agua dulce y terrestres, siendo estos últimos las conocidas cochinillas de humedad.

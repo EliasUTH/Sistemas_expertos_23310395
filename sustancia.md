@@ -1,0 +1,1 @@
+Una **sustancia** es cualquier forma de [[materia]] de composición [[química]] definida y [[homogénea]], con propiedades estables y características. En los seres vivos, abarca tanto elementos puros como compuestos que participan en las estructuras y reacciones [[biológicas]].

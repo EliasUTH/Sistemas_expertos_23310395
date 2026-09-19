@@ -1,0 +1,1 @@
+El **género** es la categoría de la clasificación biológica que agrupa a un conjunto de **especies** estrechamente emparentadas entre sí que comparten características muy similares. En el nombre científico de un ser vivo, el género es siempre la primera palabra (como _Homo_ en _Homo sapiens_ o _Armadillidium_ en _Armadillidium vulgare_).

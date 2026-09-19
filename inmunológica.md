@@ -1,0 +1,1 @@
+**Inmunológica** (o inmunológico) describe a las propiedades, respuestas o mecanismos pertenecientes o relativos al sistema inmunitario y a la inmunología, encargados del reconocimiento de antígenos, la distinción entre lo propio y lo no propio, y la defensa biológica del organismo contra patógenos y agentes extraños.

@@ -1,0 +1,1 @@
+Los **ácidos nucleicos** son grandes biomoléculas orgánicas (polímeros) formadas por cadenas de nucleótidos, principalmente [[ADN]] y [[ARN]]. Su función fundamental es almacenar, transmitir y expresar la información [[genética]] que dirige la síntesis de [[proteínas]] y regula los procesos biológicos de la célula.

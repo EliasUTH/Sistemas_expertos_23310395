@@ -1,0 +1,1 @@
+Las **enzimas** son biomoléculas de naturaleza generalmente proteica —y excepcionalmente de [[ARN]], en el caso de las ribozimas— que actúan como [[catalizador]]es biológicos específicos, acelerando la velocidad de las reacciones metabólicas al disminuir su energía de activación, sin consumirse ni alterarse permanentemente durante el proceso.

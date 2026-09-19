@@ -1,0 +1,1 @@
+Los **depredadores** son [[organismos]] que [[cazan]], matan y se alimentan de otros seres vivos (sus [[presas]]) para obtener energía y sobrevivir.
