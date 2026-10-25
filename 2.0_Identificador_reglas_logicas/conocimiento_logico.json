@@ -1,0 +1,40 @@
+{
+  "atomos": [
+    {
+      "id": "X1",
+      "texto": "me caigo"
+    },
+    {
+      "id": "X2",
+      "texto": "me levanto"
+    },
+    {
+      "id": "X3",
+      "texto": "me sobo"
+    },
+    {
+      "id": "X4",
+      "texto": "mi amigo se cae"
+    },
+    {
+      "id": "X5",
+      "texto": "pregunto quien fue antes de saber como está"
+    },
+    {
+      "id": "X6",
+      "texto": "lo ayudo"
+    }
+  ],
+  "reglas": [
+    {
+      "id": "R1",
+      "texto": "Si me caigo, me levanto y me sobo",
+      "expresion": "X1 → (X2 ∧ X3)"
+    },
+    {
+      "id": "R2",
+      "texto": "Si mi amigo se cae, pregunto quien fue antes de saber como está o lo ayudo",
+      "expresion": "X4 → (X5 ∨ X6)"
+    }
+  ]
+}
